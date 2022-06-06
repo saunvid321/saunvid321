@@ -25,30 +25,11 @@
 - 💬 Talk to me about software engineering opportunities and Blockchain Development. 
 - 😄 I’m looking to collaborate on backend software engineering projects.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
- <a href="https://html.com/" target="_blank"> 
-    <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a> 
+## 🎯 Skills
+- 👨‍💻 Data Strucure and Algorithm [![LeetCode user _ysh_](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F_ysh_&logo=leetcode&logoColor=yellow)](https://leetcode.com/saunvidganbavale100)
+- ⚙️ Machine Learning 
+- 👁️ Computer Vision
 
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-
-   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-    <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </a>
-
-   <a href="https://www.javascript.com/" target="_blank">
-    <img alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a>
-
-   <a href="https://nodejs.org/en/" target="_blank">
-    <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  </a>
-
-   <a href="https://www.mongodb.com/" target="_blank">
-    <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  </a>
 
 
 
