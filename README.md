@@ -26,8 +26,9 @@
 - 😄 I’m looking to collaborate on backend software engineering projects.
 
 ## 🎯 Skills
-- 👨‍💻 Data Strucure and Algorithm [![LeetCode user 
+- 🖥️ Data Strucure and Algorithm [![LeetCode user 
 saunvidganbavale100](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaunvidganbavale100&logo=leetcode&logoColor=yellow)](https://leetcode.com/saunvidganbavale100)
+- 👨‍💻 Web Development
 - ⚙️ Machine Learning 
 - 👁️ Computer Vision
 
