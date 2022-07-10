@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/ll-ysh-ll/ll-ysh-ll/master/wave.gif" width="30px" height="30px" /> </h1>
 <p align='center'>
 </p>
 
